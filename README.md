@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 Thank you for your support!
 
-* [Indeed](https://indeed.com/)
+* [Indeed Engineering](https://opensource.indeedeng.io/)
