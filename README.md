@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 -->
 
 [![Source Karma badge for @eskatos](https://sourcekarma-og.vercel.app/api/eskatos/github)](https://sourcekarma.vercel.app/eskatos)
+
+----
+
+#### GitHub Sponsors
+
+Thank you for your support!
+
+* [Indeed](https://indeed.com/)
